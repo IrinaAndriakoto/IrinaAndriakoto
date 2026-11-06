@@ -12,6 +12,9 @@ MSc student BIHAR IA & Big Data at ESTIA Institute of technology, Bidart, France
 💬 Also available in Freelance on Full time or Remote or Hybrid
 
 📫 Get in touch
-💼 LinkedIn: [[link](https://mg.linkedin.com/in/irina-andriakotoharison-968954324)]
+
+💼 LinkedIn: [[Irina Andriakotoharison](https://mg.linkedin.com/in/irina-andriakotoharison-968954324)]
+
 ✉️ Email: [andriakotoharisonirina@gmail.com]
-🌐 Portfolio: [[link](https://portfolio-iand.netlify.app/)]
+
+🌐 Portfolio: [[Portfolio](https://portfolio-iand.netlify.app/)]
