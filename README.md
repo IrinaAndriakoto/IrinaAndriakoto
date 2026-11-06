@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-Backend / Full Stack Développeur 
+Backend / Full Stack Développeur  
+
 MSc student BIHAR IA & Big Data at ESTIA Institute of technology, Bidart, France 
+
 📍 Antananarivo, Madagascar.
 
 🧭 About me
