@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-Backend / Full Stack Développeur  
+# Backend / Full Stack Développeur  
 
 MSc student BIHAR IA & Big Data at ESTIA Institute of technology, Bidart, France 
 
 📍 Antananarivo, Madagascar.
 
-🧭 About me
+# 🧭 About me
 
 🛠️ I build APIs, web apps, tools with Java Spring Boot | Python Django, FastAPI | Node.js, Express.js.
 
@@ -15,7 +15,7 @@ MSc student BIHAR IA & Big Data at ESTIA Institute of technology, Bidart, France
 💬 Also available in Freelance on Full time or Remote or Hybrid
 
 
-📫 Get in touch
+# 📫 Get in touch
 
 💼 LinkedIn: [[Irina Andriakotoharison](https://mg.linkedin.com/in/irina-andriakotoharison-968954324)]
 
